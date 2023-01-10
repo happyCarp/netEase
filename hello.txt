@@ -10,6 +10,7 @@ hello git
 hello git
 hello gid---=hot fix
 hello git
-hello git===master test
+helit===master test
+hello gid===hot fix2
 hello git
 hello gidsdsasdsd
